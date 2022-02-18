@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blulling
-- 👀 I’m interested in all kinds of things but professionally I am a data nerd and can't wait to learn more about Python.
+- 👀 I’m interested in all kinds of things but professionally I am a data nerd and love learning new ways to slice and dice the facts
 - 🌱 I’m currently learning Python for Data Analysts and Scientists
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me btlulling@gmail.com
